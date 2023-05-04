@@ -1,0 +1,62 @@
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.csproj.AssemblyReference.cache
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Chat.csproj.CopyComplete
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\User.g.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\User.baml
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Server.g.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Server.baml
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Chat.exe
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Chat.deps.json
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Chat.runtimeconfig.json
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Chat.dll
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Chat.pdb
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\valiu\Desktop\Chat\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.csproj.AssemblyReference.cache
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Server.g.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\User.g.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.cache
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat_MarkupCompile.lref
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Server.baml
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\User.baml
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.g.resources
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfoInputs.cache
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.AssemblyInfo.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.csproj.CoreCompileInputs.cache
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.csproj.CopyComplete
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.dll
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\refint\Chat.dll
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.pdb
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Chat.genruntimeconfig.cache
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\ref\Chat.dll
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Logs.g.cs
+C:\Users\valiu\Desktop\Chat\obj\Debug\net6.0-windows\Logs.baml
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Logs.g.cs
+C:\Users\beyel\OneDrive\Рабочий стол\ОАиП (Скорогудаева)\Chat\obj\Debug\net6.0-windows\Logs.baml
